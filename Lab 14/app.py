@@ -26,4 +26,4 @@ def bubblesort(elements):
         correct = True
     else:
         correct = False
-    return (elements, correct)
+    return elements, correct
