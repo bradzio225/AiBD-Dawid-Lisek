@@ -1,1 +1,1 @@
-# AiBD-Dawid-Lisek
+# Data analysis and databases classroom
